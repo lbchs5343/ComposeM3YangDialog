@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.setruth.yangdialog"
-        minSdk = 31
+        minSdk = 26
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
